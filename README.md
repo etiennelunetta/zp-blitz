@@ -1,4 +1,3 @@
-[![Blitz.js](https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png)](https://blitzjs.com)
 
 <!-- prettier-ignore-start -->
 <p align="center">
